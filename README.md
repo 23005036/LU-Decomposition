@@ -39,9 +39,10 @@ print(sol)
 
 ## Output:
 
-![Alt text](<Screenshot 2023-11-29 114808.png>)
+![Alt text](<Screenshot 2023-11-29 114833-1.png>)
 
-![Alt text](<Screenshot 2023-11-29 114833.png>)
+![Alt text](<Screenshot 2023-11-29 114808-1.png>)
+
 
 ## Result:
 Thus the program to find the LU Decomposition of a matrix is written and verified using python programming.
